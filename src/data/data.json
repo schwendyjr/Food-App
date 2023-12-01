@@ -1,0 +1,29 @@
+{
+    "foodItems": [
+      {
+        "id": 0,
+        "name": "Sushi",
+        "ingredients": ["Sushi is a traditional Japanese dish."]
+      },
+      {
+        "id": 1,
+        "name": "Dal",
+        "ingredients": ["Dal contains onions, tomatoes and various spices which may be added."]
+      },
+      {
+        "id": 2,
+        "name": "Pierogi",
+        "ingredients": ["Pierogi involve wrapping dough around a savoury or sweet filling."]
+      },
+      {
+        "id": 3,
+        "name": "Kebab",
+        "ingredients": ["Kebab is a popular meal of skewered meat."]
+      },
+      {
+        "id": 4,
+        "name": "Dim Sum",
+        "ingredients": ["Dim sum is a variety of smaller dishes that can be enjoyed both during lunch or dinner."]
+      }
+    ]
+  }
